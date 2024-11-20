@@ -2,9 +2,9 @@
 **Behavioral Science Reseracher in an Institutional Research world**
 
 ## Bio
-Tatiana Quiñones is an Institutional Research (IR) Analyst at Lehigh Carbon Community College, holding a MBA in Predictive Analytics from Moravian University. Her expertise spans statistical modeling, data visualization, data management, and mixed-methods research, with a focus on student success, program evaluation, and institutional strategy in higher education.
+Tatiana is a dedicated researcher with a passion for understanding human behavior. Currently, she's an Institutional Research Analyst at Lehigh Carbon Community College, applying her MBA in Predictive Analytics to the world of higher education. By focusing on behavioral science principles like motivation and loss aversion, Tatiana helps institutions make data-driven decisions to improve student outcomes.
 
-Before working in Institutional Research she worked as a behavioral traffic safety researcher. The research she collected helps businesses and nonprofits understand and leverage the traffic data to increase safety, health, and equity for people traveling. She has worked on federal contracts and full service research projects for the National Highway Traffic Safety Administration. Currently works with the Behavioral Traffic Safety Cooperative Research Program to design and guide future research initiatives.
+Before her current role, Tatiana delved into the realm of traffic safety. Her research, conducted under federal contracts for the National Highway Traffic Safety Administration, aimed to enhance road safety by analyzing traffic data and understanding human behavior on the road. She's currently working with the Behavioral Traffic Safety Cooperative Research Program to guide future research initiatives and make our roads safer for everyone.
 
 ## Please visit a repository of [Tatiana’s Data Projects](https://github.com/quinonescode) for more information.
 
