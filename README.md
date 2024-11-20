@@ -1,5 +1,5 @@
 # Tatiana Quiñones
-**Behavioral Science Reseracher in Institutional Research**
+**Behavioral Science Reseracher in an Institutional Research world**
 
 ## Bio
 Tatiana Quiñones is an Institutional Research (IR) Analyst at Lehigh Carbon Community College, holding a MBA in Predictive Analytics from Moravian University. Her expertise spans statistical modeling, data visualization, data management, and mixed-methods research, with a focus on student success, program evaluation, and institutional strategy in higher education.
