@@ -6,5 +6,5 @@ Tatiana is a dedicated researcher with a passion for understanding human behavio
 
 Before her current role, Tatiana delved into the realm of traffic safety. Her research, conducted under federal contracts for the National Highway Traffic Safety Administration, aimed to enhance road safety by analyzing traffic data and understanding human behavior on the road. She's currently working with the Behavioral Traffic Safety Cooperative Research Program to guide future research initiatives and make our roads safer for everyone.
 
-## Please visit a repository of [Tatiana’s Data Projects](https://github.com/quinonescode) for more information.
+## Please visit a repository of [Tatiana’s IR Projects](https://github.com/quinonescode/IR-Tools) for more information.
 
