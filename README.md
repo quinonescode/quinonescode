@@ -8,3 +8,4 @@ Before her current role, Tatiana delved into the realm of traffic safety. Her re
 
 ## Please visit a repository of [Tatiana’s IR Projects](https://github.com/quinonescode/IR-Tools) for more information.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quinonescode)](https://github.com/anuraghazra/github-readme-stats)
