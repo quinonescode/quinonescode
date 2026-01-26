@@ -2,9 +2,12 @@
 **Behavioral Science Reseracher in an Institutional Research world**
 
 ## Bio
-Tatiana is a dedicated researcher with a passion for understanding human behavior. Currently, she's an Institutional Research Analyst at Lehigh Carbon Community College, applying her MBA in Predictive Analytics to the world of higher education. By focusing on behavioral science principles like motivation and loss aversion, Tatiana helps institutions make data-driven decisions to improve student outcomes.
-
-Before her current role, Tatiana delved into the realm of traffic safety. Her research, conducted under federal contracts for the National Highway Traffic Safety Administration, aimed to enhance road safety by analyzing traffic data and understanding human behavior on the road. She's currently working with the Behavioral Traffic Safety Cooperative Research Program to guide future research initiatives and make our roads safer for everyone.
+Hi, I'm Tatiana | Tech Creative & Business Analyst Bridging the gap between raw data and human-centric storytelling.
+Here you can find project I have worked on:
+-Analytics & AI: Python (Pandas, Scikit-learn), R, SQL, Tableau/PowerBI.
+-Forecasting: Time-Series (Prophet, ARIMA), Demand Sensing.
+-Creative Tech: JavaScript (p5.js or Three.js), Generative Art, UI/UX Design.
+-Customer Insights: Segment Analysis, NLP (Sentiment Analysis), Churn Modeling.
 
 ## Please visit a repository of [Tatiana’s IR Projects](https://github.com/quinonescode/IR-Tools) for more information.
 
