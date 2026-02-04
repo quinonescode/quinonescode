@@ -1,19 +1,39 @@
 # Tatiana Quiñones
-**Behavioral Science Reseracher in an Institutional Research world**
+**Behavioral Data Scientist | Predictive Analytics & Financial Operations**
 
-## Bio
-Hi, I'm Tatiana | Tech Creative & Business Analyst Bridging the gap between raw data and human-centric storytelling.
+##  Bio
+I am a **Behavioral Data Scientist** specializing in the intersection of human psychology and quantitative modeling. My work focuses on transforming high-frequency behavioral data—from financial transactions to safety telemetry—into actionable insights. With a background in **I/O Psychology** and an **MBA in Predictive Analytics**, I bridge the gap between "what" the data says and "why" humans behave the way they do.
 
-Here you can find project I have worked on:
+I am currently leveraging the **R and Python** ecosystems to solve complex problems in **Causal Inference**, **Risk Detection**, and **Product Optimization**.
 
--Analytics & AI: Python (Pandas, Scikit-learn), R, SQL, Tableau/PowerBI.
+---
 
--Forecasting: Time-Series (Prophet, ARIMA), Demand Sensing.
+##  Technical Expertise
+* **Scientific Modeling:** Causal Inference (Propensity Score Matching, Double ML), Quasi-Experimental Design, A/B & Multivariate Testing.
+* **Analytics Stack:** Python (Pandas, Scikit-learn, SHAP), SQL (Snowflake/BigQuery), R (Statistical Research), Power BI/Tableau.
+* **Behavioral Domain:** Risk/Anomaly Detection, Churn Prediction, Psychometric Analysis, Human Factors Research.
 
--Creative Tech: JavaScript (p5.js or Three.js), Generative Art, UI/UX Design.
+---
 
--Customer Insights: Segment Analysis, NLP (Sentiment Analysis), Churn Modeling.
+##  Selected Projects
 
-## Please visit a repository of [Tatiana’s IR Projects](https://github.com/quinonescode/IR-Tools) for more information.
+###  [Predictive Risk & Retention Engine](https://github.com/quinonescode/Retention-Modeling) 
+* **The Goal:** Identifying behavioral "red flags" to proactively mitigate customer churn in institutional settings.
+* **The Impact:** Engineered a Random Forest model for 10K+ records, utilizing stratified sampling to identify "at-risk" individuals with a 12% improvement in prediction accuracy.
+* **Domain:** Behavioral Risk / Retention Analytics.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quinonescode)](https://github.com/anuraghazra/github-readme-stats)
+###  [Causal Inference: Policy Impact Analysis](https://github.com/quinonescode/Causal-Analysis)
+* **The Goal:** Isolating the true effect of systemic interventions in complex, noisy environments.
+* **The Impact:** Applied Propensity Score Matching to evaluate "Safety Interventions" in high-frequency telemetry data, stripping away confounding variables to measure pure ROI.
+* **Domain:** Experimental Design / Causal ML.
+
+###  [Financial Transaction Forensic Pipeline](https://github.com/quinonescode/Fintech-Forensics)
+* **The Goal:** Detecting anomalies and optimizing cost structures in high-volume payment data streams.
+* **The Impact:** Developed automated SQL/Python scripts to reconcile tiered fee structures and identify processing outliers, mimicking exchange-fee reconciliation processes.
+* **Domain:** Financial Operations / Data Integrity.
+
+---
+
+##  Professional Foundation
+* **MBA in Predictive Analytics** | *Focus on data-driven decision making and business strategy.*
+* **B.S. in Industrial/Organizational
