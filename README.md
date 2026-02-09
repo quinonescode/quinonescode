@@ -2,7 +2,7 @@
 **Behavioral Data Scientist | Predictive Analytics & Financial Operations**
 
 ##  Bio
-I am a **Behavioral Data Scientist** specializing in the intersection of human psychology and quantitative modeling. My work focuses on transforming high-frequency behavioral data—from financial transactions to safety telemetry—into actionable insights. With a background in **I/O Psychology** and an **MBA in Predictive Analytics**, I bridge the gap between "what" the data says and "why" humans behave the way they do.
+I am a **Behavioral Data Scientist** specializing in the intersection of human psychology and quantitative modeling. My work focuses on transforming high-frequency behavioral data, from financial transactions to safety telemetry, into actionable insights. With a background in **I/O Psychology** and an **MBA in Predictive Analytics**, I bridge the gap between "what" the data says and "why" humans behave the way they do.
 
 I am currently leveraging the **R and Python** ecosystems to solve complex problems in **Causal Inference**, **Risk Detection**, and **Product Optimization**.
 
