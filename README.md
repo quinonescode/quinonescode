@@ -17,23 +17,26 @@ I am currently leveraging the **R and Python** ecosystems to solve complex probl
 
 ##  Selected Projects
 
-###  [Predictive Risk & Retention Engine](https://github.com/quinonescode/Retention-Modeling) 
-* **The Goal:** Identifying behavioral "red flags" to proactively mitigate customer churn in institutional settings.
-* **The Impact:** Engineered a Random Forest model for 10K+ records, utilizing stratified sampling to identify "at-risk" individuals with a 12% improvement in prediction accuracy.
-* **Domain:** Behavioral Risk / Retention Analytics.
+### [Financial Dropout Prediction](https://github.com/quinonescode/Financial_Dropout_Prediction)
+**The Problem:** Identifying students at high risk of withdrawing due to financial gaps before they drop.
+**The Solution:** Developed a predictive model in R to flag students with specific indicators, allowing for proactive outreach.
+**Tech Stack:** R (tidyverse, tidymodels), SQL.
+**Impact:** Provided the college with a "leads list" for the Financial Aid office to target interventions and improve retention.
 
-###  [Causal Inference: Policy Impact Analysis](https://github.com/quinonescode/Causal-Analysis)
-* **The Goal:** Isolating the true effect of systemic interventions in complex, noisy environments.
-* **The Impact:** Applied Propensity Score Matching to evaluate "Safety Interventions" in high-frequency telemetry data, stripping away confounding variables to measure pure ROI.
-* **Domain:** Experimental Design / Causal ML.
+### [Spring Enrollment Prediction](https://github.com/quinonescode/Spring_Enrollment_Prediction)
+**The Problem:** Unpredictable spring registration cycles making faculty and resource planning difficult.
+**The Solution:** Built a time-series forecasting model in R analyzing historical fall-to-spring persistence trends.
+**Tech Stack:** R (forecast, ggplot2), SQL.
+**Impact:** Optimized course scheduling and staffing levels by providing high-confidence enrollment projections.
 
-###  [Financial Transaction Forensic Pipeline](https://github.com/quinonescode/Fintech-Forensics)
-* **The Goal:** Detecting anomalies and optimizing cost structures in high-volume payment data streams.
-* **The Impact:** Developed automated SQL/Python scripts to reconcile tiered fee structures and identify processing outliers, mimicking exchange-fee reconciliation processes.
-* **Domain:** Financial Operations / Data Integrity.
+### [Student Distance from Campus](https://github.com/quinonescode/Student_Distance_from_Campus)
+**The Problem:** Understanding the geographical footprint of the student body to optimize satellite campus resources and transportation.
+**The Solution:** A geospatial analysis project in R using student zip codes to calculate mean distance and density clusters.
+**Tech Stack:** R, SQL.
+**Impact:** Influenced institutional decisions on local resource allocation and regional marketing strategies.
 
 ---
 
 ##  Professional Foundation
 * **MBA in Predictive Analytics** | *Focus on data-driven decision making and business strategy.*
-* **B.S. in Industrial/Organizational
+* **B.S. in Industrial/Organizational**
