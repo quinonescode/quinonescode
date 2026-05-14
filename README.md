@@ -1,4 +1,4 @@
-# Tatiana Quiñones
+# Tatiana Quinones
 **Behavioral Data Scientist | Predictive Analytics & Financial Operations**
 
 ##  Bio
